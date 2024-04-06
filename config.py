@@ -29,9 +29,8 @@ OWNER_ID = int(getenv("OWNER_ID", None))
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
-SOURCE = getenv ("source code") https://t.me/Isha_Repo_Link
 
-    
+InlineKeyboardButton(text=_["S_B_7"], url=config.UPSTREAM_REPO)"https://t.me/Isha_Repo_Link" 
 SlayerX/utiles/inline/start.py
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
